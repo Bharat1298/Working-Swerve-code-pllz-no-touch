@@ -102,9 +102,11 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
+			<Item Name="Color_Sensor_Logic.vi" Type="VI" URL="../../Color_Sensor_Logic.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Drive_Vi.vi" Type="VI" URL="../../Drive_Vi.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
+			<Item Name="Index_Logic.vi" Type="VI" URL="../../Index_Logic.vi"/>
 			<Item Name="Index_Sensors.vi" Type="VI" URL="../../Index_Sensors.vi"/>
 			<Item Name="Joystick_Cluster.vi" Type="VI" URL="../../Joystick_Cluster.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
