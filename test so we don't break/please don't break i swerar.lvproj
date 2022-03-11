@@ -126,8 +126,6 @@ AddOutputFilter chunkFilter
 		<Item Name="144 Swerve Drive 2022.vi" Type="VI" URL="../../../../../../Desktop/2022 Labview VI&apos;s/144 Swerve Drive 2022.vi"/>
 		<Item Name="Angle Distance VI.vi" Type="VI" URL="../../../../../../Desktop/2022 Labview VI&apos;s/Angle Distance VI.vi"/>
 		<Item Name="Dead band vi by ben.vi" Type="VI" URL="../../../../../../Desktop/2022 Labview VI&apos;s/Dead band vi by ben.vi"/>
-		<Item Name="Dead band vi by ben.vi" Type="VI" URL="../Dead band vi by ben.vi"/>
-		<Item Name="ReadSwerveSensors.vi" Type="VI" URL="../../../../../../Desktop/ReadSwerveSensors.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
